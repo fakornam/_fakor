@@ -1,4 +1,4 @@
-<h1 align="center">👋🏽 Hi there, I'm Fakornam Benedictus Morladza</h1>
+<h1 align="center">👋🏽 Hi there, I'm Fakornam Benedict </h1>
 <h3 align="center">🚀 Back-End Developer | DevOps Enthusiast | Tech Community Builder</h3>
 
 <p align="center">
